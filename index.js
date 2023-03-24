@@ -1,1 +1,2 @@
-console.log("abcd")
+const shortid = require("shortid");
+console.log(shortid.generate());
