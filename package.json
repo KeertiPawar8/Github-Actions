@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KeertiPawar8/Github-Actions/issues"
   },
-  "homepage": "https://github.com/KeertiPawar8/Github-Actions#readme"
+  "homepage": "https://github.com/KeertiPawar8/Github-Actions#readme",
+  "dependencies": {
+    "shortid": "^2.2.16"
+  }
 }
