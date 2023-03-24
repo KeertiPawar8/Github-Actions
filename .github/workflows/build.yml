@@ -3,5 +3,5 @@ jobs:
     first-job: 
         runs-on: windows-latest
         steps: 
-            - un: node --version
+            - run: node --version
             - run: npm --version
